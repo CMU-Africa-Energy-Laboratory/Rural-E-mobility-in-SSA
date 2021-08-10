@@ -1,10 +1,9 @@
 ## Rural E-mobility
 **Overview**                                                         
 Africa is facing the fastest growing rate in vehicle growth where most countries have annual vehicle sales rates of over10% compared to 4% in European countries. Additionally, most African countries are also facing mobility challenges in terms of congestion, inadequate infrastructure, air pollution, health issues, and fiscal burden high fuel prices and subsidies place on the economy. Electric vehicles may provide fantastic solutions to these problems. Since people in Africa travel an average distance of less than 80km with an average speed of 60km/h, Ev solutions are technically and economically perfect fit. Moreover, EVs have also gained attention as a strategy to decrease petroleum dependency and boost energy security in the context of increasing transport demand. Several Sub-Saharan African countries have already made significant steps in improving their overall vehicle fuel economy, enforcing vehicle standards and regulations such as the Climate Change Act in Kenya, or promoting non-motorized urban transport in Kigali, Rwanda.
-**Overview**                                                         
-Africa is facing the fastest growing rate in vehicle growth where most countries have annual vehicle sales rates of over10% compared to 4% in European countries. Additionally, most African countries are also facing mobility challenges in terms of congestion, inadequate infrastructure, air pollution, health issues, and fiscal burden high fuel prices and subsidies place on the economy. Electric vehicles may provide fantastic solutions to these problems. Since people in Africa travel an average distance of less than 80km with an average speed of 60km/h, Ev solutions are technically and economically perfect fit. Moreover, EVs have also gained attention as a strategy to decrease petroleum dependency and boost energy security in the context of increasing transport demand. Several Sub-Saharan African countries have already made significant steps in improving their overall vehicle fuel economy, enforcing vehicle standards and regulations such as the Climate Change Act in Kenya, or promoting non-motorized urban transport in Kigali, Rwanda. 
                                                                **Rural transport & mobility**
 In sub-Saharan African countries 60% of its population live in rural areas. In these areas, transportation and mobility are of great importance. Roads represent a lifeline for economy and agricultural livelihood as well as other indirect benefits like access to health care, education, credit, political participation, and social interaction. Crop movement from farm collection to secondary roads, are the most expensive and pose the greatest obstacle to the development of agriculture in rural areas. Therefore, an efficient rural transport system using e-mobility solutions could essentially support local production, facilitate the timely distribution of farm inputs and products, reduce post-harvest losses and ensure a vibrant food system. Apart from a small minority who own motorcycles and cars (whose operating costs are very expensive since petrol prices are high ), most inhabitants of rural areas in Africa, more than 650 million people, walk, bike, or use public transport in form of imported 2&3 wheelers. World Economic Forum reported that Africarichest Sub-Saharan African households spend up to 70% of their household income on transport while the poorest income group typically spends more than 60% on food and less than 8% of their income on transport.
+
 **E-mobility solutions in Rural areas**
 
     
@@ -14,6 +13,7 @@ In sub-Saharan African countries 60% of its population live in rural areas. In t
                                                              
   **Electric mobility in Kenya**
 Since the early 2010s, Kenya has been working diligently to position itself at the forefront of the energy transition race in East Africa. To that end, Kenya has enacted two transformative laws that directly affect its transition to a low-carbon economy: the Climate Change Act 2016 and the most recent Energy Act 2019. The initial motivation behind these policies was to reduce Greenhouse Gas (GHG) emissions by 30% by 2030, improving resilience to climate change and promoting low-carbon climate-resilient development. Since the transport sector accounts for more than 13% of the country’s total emissions, nationwide electrification of the vehicle fleet has been identified as a priority mitigation action. However, the existing infrastructure for EVs in Kenya is still at an infant stage: **only 350 EVs have been registered in the country (as per 2019)**. Kenya has currently 3.2 million vehicles with 2&3 wheelers presenting the largest share of the vehicle fleet(95%). Given the government’s objective to improve its policy framework, tax incentives have been introduced in the form of the Finance Bill 2019, reducing the excise duty for all **EVs from 20% to 10%**. In 2017, the Kenyan Bureau of Standards began working on a revision of rules for registration of new imported vehicles where policy demands that new vehicles in Kenya will only be approved for use if they emit no carbon monoxide or other fine particulate matters into the environment Programme. Additionally, Kenya has started to develop a policy on 2&3 wheeler use to shift to electric motorcycles with several pilots being carried out by Kenya Power, UN Environment, and the Siemens Stiftung in Western Kenya. The Kenyan government is further prepared and willing to support private sector initiatives such as Drive Electric, an EV consulting firm, and Nopia Ride, an EV sharing firm, who have piloted the use of EVs in Nairobi.
+
 **Companies promoting e-mobility in rural Kenya**
 One among these companies is **WETUHUB** that has established an incubation program for e-mobility solutions in rural Western Kenya along the shores of Lake Victoria. To support e-mobility start-ups in testing their technologies, business models and applying their solutions, WeTu owns and operates **7 solar-powered hubs**. The WeTu Hubs are also solar-driven charging stations with a capacity of a total of **150kWp** providing electricity for a range of services such as electric vehicles. 
 it has three business models  including
@@ -59,39 +59,5 @@ The table below summarises some possible business modals.
 **References**
 Coming soon!
 
-
-You can use the [editor on GitHub](https://github.com/CMU-Africa-Energy-Scenario-Analysis/Rural-E-mobility-in-SSA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Hey
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CMU-Africa-Energy-Scenario-Analysis/Rural-E-mobility-in-SSA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+you may make you comments here 
+[https://hypothes.is/welcome/b23a6f5b0c08e46f](url)
