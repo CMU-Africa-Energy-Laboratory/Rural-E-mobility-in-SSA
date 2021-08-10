@@ -1,7 +1,8 @@
 ## Rural E-mobility
 **Overview**                                                         
 Africa is facing the fastest growing rate in vehicle growth where most countries have annual vehicle sales rates of over10% compared to 4% in European countries. Additionally, most African countries are also facing mobility challenges in terms of congestion, inadequate infrastructure, air pollution, health issues, and fiscal burden high fuel prices and subsidies place on the economy. Electric vehicles may provide fantastic solutions to these problems. Since people in Africa travel an average distance of less than 80km with an average speed of 60km/h, Ev solutions are technically and economically perfect fit. Moreover, EVs have also gained attention as a strategy to decrease petroleum dependency and boost energy security in the context of increasing transport demand. Several Sub-Saharan African countries have already made significant steps in improving their overall vehicle fuel economy, enforcing vehicle standards and regulations such as the Climate Change Act in Kenya, or promoting non-motorized urban transport in Kigali, Rwanda.
-                                                               **Rural transport & mobility**
+
+**Rural transport & mobility**
 In sub-Saharan African countries 60% of its population live in rural areas. In these areas, transportation and mobility are of great importance. Roads represent a lifeline for economy and agricultural livelihood as well as other indirect benefits like access to health care, education, credit, political participation, and social interaction. Crop movement from farm collection to secondary roads, are the most expensive and pose the greatest obstacle to the development of agriculture in rural areas. Therefore, an efficient rural transport system using e-mobility solutions could essentially support local production, facilitate the timely distribution of farm inputs and products, reduce post-harvest losses and ensure a vibrant food system. Apart from a small minority who own motorcycles and cars (whose operating costs are very expensive since petrol prices are high ), most inhabitants of rural areas in Africa, more than 650 million people, walk, bike, or use public transport in form of imported 2&3 wheelers. World Economic Forum reported that Africarichest Sub-Saharan African households spend up to 70% of their household income on transport while the poorest income group typically spends more than 60% on food and less than 8% of their income on transport.
 
 **E-mobility solutions in Rural areas**
@@ -59,5 +60,5 @@ The table below summarises some possible business modals.
 **References**
 Coming soon!
 
-you may make you comments here 
+You may make you comments here 
 [https://hypothes.is/welcome/b23a6f5b0c08e46f](url)
