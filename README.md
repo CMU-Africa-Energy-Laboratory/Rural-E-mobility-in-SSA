@@ -59,7 +59,7 @@ The table below summarises some possible business modals.
 
 **References**
 
-[https://github.com/CMU-Africa-Energy-Scenario-Analysis/Rural-E-mobility-in-SSA/blob/main/test.bib] (url)
+[https://github.com/CMU-Africa-Energy-Scenario-Analysis/Rural-E-mobility-in-SSA/blob/main/test.bib](url)
 
 You may make you comments here 
 [https://hypothes.is/welcome/b23a6f5b0c08e46f](url)
