@@ -59,6 +59,14 @@ The table below summarises some possible business modals.
 
 **References**
 Coming soon!
-
+@article{dijk2013emergence,
+  title={The emergence of an electric mobility trajectory},
+  author={Dijk, Marc and Orsato, Renato J and Kemp, Ren{\'e}},
+  journal={Energy policy},
+  volume={52},
+  pages={135--145},
+  year={2013},
+  publisher={Elsevier}
+}
 You may make you comments here 
 [https://hypothes.is/welcome/b23a6f5b0c08e46f](url)
