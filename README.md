@@ -60,7 +60,8 @@ The table below summarises some possible business modals.
 **References**
 
 
-You may make you comments here 
+You may leave your 
+comments here 
 <a href="https://hypothes.is/welcome/b23a6f5b0c08e46f">your_comment</a>   
 the Google drive folder is at
 <a href="https://drive.google.com/drive/u/1/folders/1RhW37vRDn1a88bDwUuqEjLufyJ2NVmuI">google_drive</a>
